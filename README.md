@@ -1,5 +1,8 @@
 # Notes
 
+## Hugo Theme
+The academic theme is now pulled in as a `gitsubtree`
+
 ## Updating the repo
 
 If you want to clone the source of the site, you should know that the theme
