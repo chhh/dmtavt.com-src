@@ -1,7 +1,15 @@
 # Notes
 
 ## Hugo Theme
-The academic theme is now pulled in as a `gitsubtree`
+The academic theme is now pulled in as a `gitsubtree`.  
+`hugo-academic` is a remote pointing to `git@github.com:gcushen/hugo-academic.git`
+- Add the subtree first time:  
+  `git subtree add --prefix themes/academic hugo-academic master --squash`
+- The command to update the sub-project at a later date:
+  ```bash
+  git fetch hugo-academic master
+  git subtree pull --prefix themes/academic hugo-academic master --squash
+```
 
 ## Updating the repo
 
