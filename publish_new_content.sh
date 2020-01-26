@@ -31,27 +31,32 @@ printf "\n\n"
 
 case $ans in
     y|Y)
+		SRC=$(pwd)
 		cd $publish_dir_rel
-		CWD=$(pwd)
-		printf "Working in $CWD"
+		PUB=$(pwd)
+		printf "Working in $PUB\n"
 		WORKTREE=$publish_dir_rel
 		CHANGED=$(git --work-tree=${WORKTREE} status --porcelain)
 		if [ -n "${CHANGED}" ]; then
-			printf 'Publishing repo has uncommitted changes'
+			printf "Publishing repo has uncommitted changes\n"
 		else
-			printf 'Publishing repo is clean, can publish new content'
+			printf "Publishing repo is clean, can publish new content\n"
 		fi
-		printf "Checking out $publish_branch, deleting old stuff, pushing new content upstream"
+		printf "Checking out $publish_branch, deleting old stuff, pushing new content upstream\n"
 		git checkout $publish_branch
 		git rm -rf .;
+		cd $SRC
+		cp -r ./public/* $publish_dir_rel
+		rm -rf ./public
+		cd $PUB
 		git add -A
 		git commit -m "Contents update"
 		git push
 		exit;;
     n|N)
-        printf "\n\nNot publishing changes, exiting."
+        printf "\nNot publishing changes, exiting.\n"
         exit;;
     *)
-		printf "\n\nNot publishing changes, exiting."
+		printf "\nNot publishing changes, exiting.\n"
         exit;;
 esac
