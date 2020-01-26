@@ -55,15 +55,19 @@ come up with a suitable processing algorithm. In most cases this results in
 desktop GUI applications for the viz part and CLI programs to perform batch
 data processing.
 
-Prefer writing code in Java (with Gradle and Maven) or C#, with occasional 
-forays into C++. Contributing to Open Source projects like 
-[Apache NetBeans](https://netbeans.apache.org/). Sharing through Maven Central.
+- Prefer writing code in Java or C#, with occasional 
+forays into C++.
+- Contributing to Open Source projects like 
+[Apache NetBeans](https://netbeans.apache.org/).
+- Sharing love through Maven Central.  
+- Daily drivers: Java, Gradle, Maven, C# (NET Standard 2.0), SQL  
+- Occasional usage: R, Python, Nodejs, React, Hugo, Gatsby and much more  
 
 Some project links: 
 - [BatMass](http://batmass.org) - Mass spectrometry data visualization and processing (__Java, NetBeans Platform__).
+- [MSFTBX](https://github.com/chhh/msftbx) - Java library for unified mass-spec data access: mzML, mzXML, pepXML, protXML, mzId, mzIdentML, etc. Available through Maven Central (__Java, gRPC__).
 - [FragPipe](https://github.com/nesvilab/fragpipe) - Pipelined complete LC/MS proteomic analysis with a graphical interface.
 Peptide/protein search, validation, FDR estimation, quantitation, PTM analysis, spectral library building etc (__Java, Swing__).
 - [MSFragger](https://msfragger.nesvilab.org/) - Ultra-fast proteomics search engine for Closed and Open searches (__Java__).
-- [MSFTBX](https://github.com/chhh/msftbx) - Java library for unified mass-spec data access: mzML, mzXML, pepXML, protXML, mzId, mzIdentML, etc. Available through Maven Central (__Java, gRPC__).
 - [IMTBX+Grppr](https://chhh.github.io/IMTBX) - A suite of tools for extracting signals from Ion Mobility (IM) data (IM-MS, LC-IM-MS) and performing isotopic envelopes detection (__C#, WinForms, Java__).
 - [DIA-Umpire](http://diaumpire.sourceforge.net/) - Data Independent Acquisition (DIA) data processing tool that doesn't require a spectral library (Java).
