@@ -44,6 +44,7 @@ social:
   icon_pack: fa
   link: https://www.designbyhumans.com/shop/chhh/
 superuser: true
+stackoverflow_flair: '<a href="https://stackoverflow.com/users/88814/dmitry-avtonomov"><img src="https://stackoverflow.com/users/flair/88814.png" width="208" height="58" alt="profile for Dmitry Avtonomov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dmitry Avtonomov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>'
 ---
 
 Best way to describe myself would be: 
@@ -60,7 +61,7 @@ forays into C++.
 - Contributing to Open Source projects like 
 [Apache NetBeans](https://netbeans.apache.org/).
 - Sharing love through Maven Central.  
-- Daily drivers: Java, Gradle, Maven, C# (NET Standard 2.0), SQL  
+- Daily drivers: Java, Gradle, Maven, C# (NET Standard 2.0), Git, SQL  
 - Occasional usage: R, Python, Nodejs, React, Hugo, Gatsby and much more  
 
 Some project links: 
