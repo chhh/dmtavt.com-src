@@ -30,7 +30,8 @@ tags:
 - data-viz
 - lc-ms
 - library
-- raw-processing
+- data-processing
+- gui
 title: "IMTBX+Grppr: Ion Mobility Toolbox + Isotopic Grouping"
 ---
 

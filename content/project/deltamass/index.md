@@ -25,6 +25,7 @@ tags:
 - mass-spectrometry
 - data-viz
 - proteomics
+- gui
 title: "DeltaMass: view and interrogate open search proteomics data"
 
 ---

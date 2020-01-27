@@ -36,11 +36,9 @@ shields:
 
 tags:
 - mass-spectrometry
-- ion-mobility
-- data-viz
 - lc-ms
-- library
-- raw-processing
+- proteomics
+- gui
 title: "FragPipe: Proteomics 0-60 in 5 seconds"
 ---
 

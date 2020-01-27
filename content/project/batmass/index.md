@@ -34,6 +34,7 @@ tags:
 - mass-spectrometry
 - data-viz
 - lc-ms
+- gui
 title: "BatMass: mass-spec data visualization"
 
 shields:
