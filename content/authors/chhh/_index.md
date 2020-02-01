@@ -65,10 +65,10 @@ forays into C++.
 - Occasional usage: R, Python, Nodejs, React, Hugo, Gatsby and much more  
 
 Some project links: 
-- [BatMass](http://batmass.org) - Mass spectrometry data visualization and processing (__Java, NetBeans Platform__).
-- [MSFTBX](https://github.com/chhh/msftbx) - Java library for unified mass-spec data access: mzML, mzXML, pepXML, protXML, mzId, mzIdentML, etc. Available through Maven Central (__Java, gRPC__).
-- [FragPipe](https://github.com/nesvilab/fragpipe) - Pipelined complete LC/MS proteomic analysis with a graphical interface.
-Peptide/protein search, validation, FDR estimation, quantitation, PTM analysis, spectral library building etc (__Java, Swing__).
-- [MSFragger](https://msfragger.nesvilab.org/) - Ultra-fast proteomics search engine for Closed and Open searches (__Java__).
-- [IMTBX+Grppr](https://chhh.github.io/IMTBX) - A suite of tools for extracting signals from Ion Mobility (IM) data (IM-MS, LC-IM-MS) and performing isotopic envelopes detection (__C#, WinForms, Java__).
+- [BatMass](http://batmass.org) (__Java, NetBeans Platform__) - Mass spectrometry data visualization and processing.
+- [MSFTBX](https://github.com/chhh/msftbx) (__Java, gRPC, JNA__) - Java library for unified mass-spec data access: mzML, mzXML, pepXML, protXML, mzId, mzIdentML, etc. Available through Maven Central.
+- [FragPipe](https://github.com/nesvilab/fragpipe) (__Java Swing, JNA__) - Pipelined complete LC/MS proteomic analysis with a graphical interface.
+Peptide/protein search, validation, FDR estimation, quantitation, PTM analysis, spectral library building etc.
+- [MSFragger](https://msfragger.nesvilab.org/) (__Java__) - Ultra-fast proteomics search engine for Closed and Open searches.
+- [IMTBX+Grppr](https://chhh.github.io/IMTBX) (__C#, WinForms, Java__) - A suite of tools for extracting signals from Ion Mobility (IM) data (IM-MS, LC-IM-MS) and performing isotopic envelopes detection.
 - [DIA-Umpire](http://diaumpire.sourceforge.net/) - Data Independent Acquisition (DIA) data processing tool that doesn't require a spectral library (Java).
