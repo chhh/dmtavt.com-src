@@ -27,6 +27,7 @@ projects: []
 ---
 
 ## Solution origin - awesome Manjaro forums
+https://forum.manjaro.org/t/installing-expressvpn-on-manjaro-how-to/125345/9
 
 ## Solution
 
