@@ -1,12 +1,12 @@
 ---
 title: "Installing ExpressVPN client on Manjaro Linux"
 subtitle: ""
-summary: ""
+summary: "How to install expressvpn client on a fresh install of Manjaro / Arch"
 authors: []
-tags: [howto, linux, expressvpn, manjaro]
+tags: [howto, expressvpn, manjaro, arch-linux]
 categories: []
-date: 2020-01-26T12:30:18-08:00
-lastmod: 2020-01-26T12:30:18-08:00
+date: 2020-05-12T12:30:18-08:00
+lastmod: 2020-05-12T12:30:18-08:00
 featured: false
 draft: false
 

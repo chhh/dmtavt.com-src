@@ -1,12 +1,12 @@
 ---
-title: "Fixing VMWare Workstation 'Device/Credential Guard are not compatible' / 64-bit Guest OS can't run on 32-bit host"
+title: "Fixing VMWare Workstation `Device/Credential Guard are not compatible` and `64-bit Guest OS can't run on 32-bit host` errors"
 subtitle: ""
-summary: ""
+summary: " "
 authors: []
 tags: [fixme, howto, vmware, windows]
 categories: []
-date: 2020-05-26T12:00:18-08:00
-lastmod: 2020-05-26T12:00:18-08:00
+date: 2020-05-12T12:00:18-08:00
+lastmod: 2020-05-12T12:00:18-08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ projects: []
  `VMWare Workstation and Device/Credential Guard are not compatible.`
 
 ## TL;DR;
-- Disable `Hyper-V` and `Windows Sandbox` in *Windows Features*
+- Disable `Hyper-V` and `Windows Sandbox` in *Windows Features* (*Control Panel -> Programs -> Turn Windows Features On or Off*)
 - Enable processor virtualization in BIOS
  - From elevated CMD (run as administrator):
     ```
