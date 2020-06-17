@@ -44,6 +44,7 @@ case $ans in
 		fi
 		printf "Checking out $publish_branch, deleting old stuff, pushing new content upstream\n"
 		git checkout $publish_branch
+        git pull
 		git rm -rf .;
 		cd $SRC
 		cp -r ./public/* $publish_dir_rel
