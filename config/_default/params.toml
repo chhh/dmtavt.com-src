@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/chhh/dmtavt.com-src", content_dir = 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dmt.avt@gmail.com"
+email = "dmitry@dmtavt.com"
 phone = "215 459 8827"
 
 # # Address
