@@ -22,15 +22,13 @@ interests:
 - Instrument Control
 name: Dmitry Avtonomov
 organizations:
-- name: University of Michigan
-  url: ""
-- name: Nesvizhskii Lab
-  url: https://nesvilab.org
-role: Research Fellow
+- name: Protein Metrics
+  url: "https://www.proteinmetrics.com/"
+role: Software Engineer
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dmitriya@umich.edu
+  link: mailto:davtonomov@proteinmetrics.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dmitry-avtonomov-91aab02b/
