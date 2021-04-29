@@ -4,7 +4,7 @@
 title: "How to find large files in Git history: a one-liner"
 subtitle: ""
 summary: ""
-authors: []
+authors: [chhh]
 tags: [howto, git]
 categories: [howto]
 date: 2021-04-29T00:25:35-07:00

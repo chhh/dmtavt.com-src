@@ -4,7 +4,7 @@
 title: "How-to: Git clean up .orig files generated after conflict resolution"
 subtitle: "This works even if .orig has been added to .gitignore. Works for any files matching a regular expression."
 summary: ""
-authors: []
+authors: [chhh]
 tags: [howto, git]
 categories: [howto]
 date: 2021-04-29T00:02:34-07:00

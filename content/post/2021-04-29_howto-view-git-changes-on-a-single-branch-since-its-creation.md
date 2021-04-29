@@ -4,7 +4,7 @@
 title: "How to view Git changes on a single branch since its creation"
 subtitle: ""
 summary: ""
-authors: []
+authors: [chhh]
 tags: [howto, git]
 categories: [howto]
 date: 2021-04-29T00:20:37-07:00
