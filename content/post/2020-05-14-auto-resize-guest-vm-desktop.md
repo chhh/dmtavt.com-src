@@ -5,8 +5,8 @@ title: "Auto Resize Guest VM Desktop running under VMWare"
 subtitle: ""
 summary: "In VMWare Workstation guest OS desktop doesn't auto-resize to fill host OS window after first reboot. Solution."
 authors: []
-tags: [vmware, manjaro, open-vm-tools, vmtoolsd]
-categories: []
+tags: [howto, vmware, manjaro, open-vm-tools, vmtoolsd]
+categories: [howto]
 date: 2020-05-14T00:23:27-07:00
 lastmod: 2020-05-14T00:23:27-07:00
 featured: false
