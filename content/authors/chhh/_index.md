@@ -24,7 +24,7 @@ name: Dmitry Avtonomov
 organizations:
 - name: Protein Metrics
   url: "https://www.proteinmetrics.com/"
-role: Software Engineer
+role: Lead Software Engineer
 social:
 - icon: envelope
   icon_pack: fas
