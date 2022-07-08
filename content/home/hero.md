@@ -17,7 +17,7 @@ hero_media = "batmass_logo.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  #color = "navy"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"

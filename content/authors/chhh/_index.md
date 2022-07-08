@@ -1,7 +1,7 @@
 ---
 authors:
 - chhh
-bio: My main research interests are data visualization and processing for mass spectrometry.
+bio: My main research interests are data visualization and signal processing for mass spectrometry.
 education:
   courses:
   - course: PhD, Physics and Mathematics
@@ -10,9 +10,9 @@ education:
   - course: MSc, Applied Physics and Mathematics
     institution: Moscow Institute of Physics and Technology (MIPT)
     year: 2008
-  - course: BSc, Applied Physics and Mathematics
-    institution: Moscow Institute of Physics and Technology (MIPT)
-    year: 2006
+  # - course: BSc, Applied Physics and Mathematics
+  #   institution: Moscow Institute of Physics and Technology (MIPT)
+  #   year: 2006
 email: ""
 interests:
 - Algorithms
@@ -21,14 +21,15 @@ interests:
 - Desktop Applications
 - Instrument Control
 name: Dmitry Avtonomov
+# name_pronunciation: Dmitry Avtonomov
 organizations:
-- name: Protein Metrics
-  url: "https://www.proteinmetrics.com/"
-role: Lead Software Engineer
+- name: Bertis Bioscience
+  url: "http://www.bertis.com/"
+role: Principal Bioinformatics Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:davtonomov@proteinmetrics.com
+  link: mailto:dmt.avt@bertis.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dmitry-avtonomov-91aab02b/
@@ -47,14 +48,14 @@ stackoverflow_flair: '<a href="https://stackoverflow.com/users/88814/dmitry-avto
 
 Best way to describe myself would be: 
 a software engineer with a lot of hands on experience in mass-spectrometry
-(liquid and gas chromatography, ion mobility).
+(coupled to liquid chromatography, ion mobility).
 
 Usual course of action - acquire new data, explore it with visualizations,
 come up with a suitable processing algorithm. In most cases this results in
 desktop GUI applications for the viz part and CLI programs to perform batch
 data processing.
 
-- Prefer writing code in Java or C#, with occasional 
+- Prefer writing code in C# or Java, with occasional 
 forays into C++.
 - Contributing to Open Source projects like 
 [Apache NetBeans](https://netbeans.apache.org/).

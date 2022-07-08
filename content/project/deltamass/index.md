@@ -41,7 +41,7 @@ title: "DeltaMass: view and interrogate open search proteomics data"
   </tr>
 </table> -->
 
-{{< gallery album="screens" >}}
+{{< gallery album="deltamass-screens" >}}
 
 DeltaMass will plot mass-differences from a proteomic "Open Search". An "Open Search" is any search of fragmentation spectra (MS2) against a protein database when the precursor mass tolerance was set to a high enough value. E.g. not the usual 5-10-20 ppm, but instead 50-100-200 Da. The result of such a search is quite different from the regular one, it might contain a lot of spurious hits, but a lot of hits will still correspond to reasonable matches.
 
