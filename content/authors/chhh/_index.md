@@ -43,7 +43,7 @@ social:
   icon_pack: fa
   link: https://www.designbyhumans.com/shop/chhh/
 superuser: true
-stackoverflow_flair: '<a href="https://stackoverflow.com/users/88814/dmitry-avtonomov"><img src="https://stackoverflow.com/users/flair/88814.png" width="208" height="58" alt="profile for Dmitry Avtonomov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dmitry Avtonomov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>'
+stackoverflow_flair: '<a href="https://stackoverflow.com/users/88814/dmitry-avtonomov"><img src="https://stackoverflow.com/users/flair/88814.png" width="208" height="58" alt="Profile for Dmitry Avtonomov at Stack Overflow" title="Profile for Dmitry Avtonomov at Stack Overflow, "></a>'
 ---
 
 Best way to describe myself would be: 
